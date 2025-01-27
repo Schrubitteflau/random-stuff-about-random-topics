@@ -1,4 +1,4 @@
-# Awesome Random Stuff About Random Topics (ARSART, wow I created a new word)
+# Random Stuff About Random Topics
 
 Here's a repository containing resources about things I like, because why not sharing?
 
