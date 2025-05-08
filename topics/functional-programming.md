@@ -20,11 +20,14 @@ There are several languages specialized in that matter, such as <https://elixir-
 
 ### Specific libraries
 
-| Language   | Name    | Repository                              |
-| ---------- | ------- | --------------------------------------- |
-| TypeScript | fp-ts   | <https://github.com/gcanti/fp-ts>       |
-| TypeScript | effect  | <https://github.com/Effect-TS/effect>   |
-| Python     | returns | <https://github.com/dry-python/returns> |
+| Language   | Name        | Repository                                 |
+| ---------- | ----------- | ------------------------------------------ |
+| TypeScript | fp-ts       | <https://github.com/gcanti/fp-ts>          |
+| TypeScript | effect      | <https://github.com/Effect-TS/effect>      |
+| TypeScript | neverthrow  | <https://github.com/supermacro/neverthrow> |
+| Python     | returns     | <https://github.com/dry-python/returns>    |
+
+Note that neverthrow is specialized in error handling and success/failure modeling, whereas the others are broader and cover more uses cases, including error handling as well.
 
 ## Railway oriented programming
 
